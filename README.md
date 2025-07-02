@@ -1,2 +1,1 @@
-# Iris-flowers-Classification
-Classification project
+Classification and Regression
